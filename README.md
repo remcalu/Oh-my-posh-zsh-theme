@@ -14,8 +14,8 @@ Note that you need to have [oh-my-posh](https://ohmyposh.dev/docs/installation/w
 2. Run Powershell as administrator
 3. Type "notepad $PROFILE.AllUsersAllHosts"
 4. In the file, enter "oh-my-posh init pwsh --config ~/zsh.omp.json | Invoke-Expression", where "~/zsh.omp.json" is the directory where you moved the file to in step 2
-5. restart powershell
+5. Restart powershell
 ~~~~
 
-## Program demo
-![Demo](https://github.com/remcalu/GPS-Data-Viewer/blob/master/projectDemo.gif)
+## Demo
+![Screenshot_10](https://user-images.githubusercontent.com/59599955/172030642-e82dfe2f-8bac-442e-84e8-0adef83f8403.png)
